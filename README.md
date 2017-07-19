@@ -1,5 +1,7 @@
 # Git Branching
 
+Have as much fun as possible with merge conflicts.
+
 *With a pair*
 
 1. Create a new Github organization.
