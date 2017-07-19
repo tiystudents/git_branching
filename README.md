@@ -16,13 +16,16 @@ As individuals, but side by side (DO NOT GET AHEAD OF YOUR PAIR)
 4. Checkout the master branch.
 
 *One Member*
+
 1. Merge your branch into master.
 2. Push your changes.
 
 *Other pair*
+
 5. From master, pull down changes.
 6. Merge in your branch into master.
 
 *As a Pair*
+
 5. Resolve the following conflicts.
 7. Push your changes.
