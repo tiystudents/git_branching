@@ -25,7 +25,7 @@ As individuals, but side by side (DO NOT GET AHEAD OF YOUR PAIR)
 *Other pair*
 
 1. From master, pull down changes.
-2. Merge in your branch into master.
+2. Merge in your `branch` into master.
 
 *As a Pair*
 
