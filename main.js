@@ -11,7 +11,7 @@ let intervalID = window.setInterval(subtractFromCountdown, tick)
 btn.addEventListener("click", function handleResetClick(event) {
   console.log(secondsLeft);
   //secondsLeft = 3;
-  updateDisplay(secondsLeft);
+  //updateDisplay(secondsLeft);
   let body = document.querySelector("body")
   body.style.backgroundColor = "white";
   body.style.color = "black";
